@@ -15,9 +15,15 @@ This project is part of a thesis chapter on team-building strategy in the NBA. I
 ## Repository structure
 
 ```
-├── 01_data_cleaning.ipynb     # Data loading, merging, and cleaning
-├── 02_analysis_EN.ipynb        # Draft fit and roster fit analysis, visualizations
-├── utah_jazz_clean.csv        # Cleaned dataset produced by 01_data_cleaning.ipynb
+utah-jazz-rebuilding-analysis/
+├── docs/
+│   ├── 02_analisi_IT.html
+│   ├── 02_analysis_EN.html
+│   └── index.html
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_analisi_IT.ipynb
+│   └── 02_analysis_EN.ipynb
 └── README.md
 ```
 
