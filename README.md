@@ -13,7 +13,7 @@ This project is part of a thesis chapter on team-building strategy in the NBA. I
 
 ```
 ├── 01_data_cleaning.ipynb     # Data loading, merging, and cleaning
-├── 02_analysis.ipynb          # Draft fit and roster fit analysis, visualizations
+├── 02_analysis_EN.ipynb        # Draft fit and roster fit analysis, visualizations
 ├── utah_jazz_clean.csv        # Cleaned dataset produced by 01_data_cleaning.ipynb
 └── README.md
 ```
@@ -21,7 +21,7 @@ This project is part of a thesis chapter on team-building strategy in the NBA. I
 ### `01_data_cleaning.ipynb`
 Loads the raw data sources, merges them, handles missing values, and exports the cleaned dataset (`utah_jazz_clean.csv`) used by the analysis notebook.
 
-### `02_analysis.ipynb`
+### `02_analysis_EN.ipynb`
 Reads the cleaned dataset and runs the full analysis: draft fit scoring, roster salary-performance fit, and interactive Plotly visualizations.
 
 ## Setup
