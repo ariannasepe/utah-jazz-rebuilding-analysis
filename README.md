@@ -2,6 +2,9 @@
 
 Analysis and modeling pipeline exploring the Utah Jazz rebuilding process, combining a draft fit system with a roster salary-performance fit model.
 
+The basketball statistics used in this project were obtained from Basketball Reference. The data is provided here only in limited form for demonstration purposes.
+For full datasets, please visit Basketball Reference directly.
+
 ## Overview
 
 This project is part of a thesis chapter on team-building strategy in the NBA. It looks at two connected questions:
