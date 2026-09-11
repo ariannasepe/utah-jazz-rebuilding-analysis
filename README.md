@@ -46,8 +46,8 @@ Run the notebooks in order: `01_data_cleaning.ipynb` first to generate the clean
 This notebook uses Plotly for visualizations. Since GitHub does not render JavaScript in notebook previews, charts may not display directly on github.com. To view them:
 
 - Open the notebook locally (Jupyter/VS Code), or
-- View the exported HTML via [nbviewer](https://nbviewer.org) or [htmlpreview.github.io](https://htmlpreview.github.io)
-
+- Open the exported HTML files in the `docs/` folder
+  
 ## Author
 
 Arianna
